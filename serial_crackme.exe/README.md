@@ -1,9 +1,9 @@
 
 
-###### Files:
+##  Files:
  * Serial_crackme.zip - you must download and unzip the file serial_crackme.exe
  
-###### Suggestions:
+##  Suggestions:
  * Use a VM when working with files like theses, you never know what your downloading
  * Use OllyDbg or some debugger to step through the program and see what it does
  * Try IDA Pro to visually inspect the assembly.
